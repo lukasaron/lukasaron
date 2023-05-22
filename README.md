@@ -1,6 +1,6 @@
 👋 Hi, I’m @lukasaron
 
-👨‍💻 I'm a seasoned software engineer and technology leader currently serving as the CTO (Chief Technology Officer) at Archa. With a strong background in Computer Science and Programming, I combine my technical expertise with strategic vision to drive innovation and shape the technological direction of the company.
+👨‍💻 I'm a seasoned software engineer and technology leader currently serving as the Chief Technology Officer at Archa. With a strong background in Computer Science and Programming, I combine my technical expertise with strategic vision to drive innovation and shape the technological direction of the company.
 
 🚀 Passionate about cutting-edge technologies, my current focus lies in leveraging Golang, Terraform, and Cloud to architect scalable and resilient solutions that empower businesses to thrive in the digital landscape.
 
