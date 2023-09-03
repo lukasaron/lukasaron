@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a seasoned software engineer and technology leader currently serving as the Chief Technology Officer at Archa. With a strong background in Computer Science and Programming, I combine my technical expertise with strategic vision to drive innovation and shape the technological direction of the company.
 
-🚀 Passionate about cutting-edge technologies, my current focus lies in leveraging Golang, Terraform, and Cloud to architect scalable and resilient solutions that empower businesses to thrive in the digital landscape.
+🚀 Passionate about cutting-edge technologies, my current focus lies in leveraging Golang, Terraform, and Cloud providers to architect scalable and resilient solutions that empower businesses to thrive in the digital landscape.
 
 💡 With years of experience in software development and a deep understanding of software architecture and system design, I lead teams in building high-performance, scalable, and secure software systems.
 
