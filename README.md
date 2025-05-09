@@ -1,6 +1,6 @@
 👋 Hi, I’m @lukasaron
 
-👨‍💻 I'm a seasoned software engineer and technology leader with a strong background in Computer Science and Programming, I combine my technical expertise with strategic vision to drive innovation and shape the technological direction of the company.
+👨‍💻 I'm a seasoned software engineer and technology lead with a strong background in Computer Science and Programming, I combine my technical expertise with strategic vision to drive innovation and shape the technological direction of the company.
 
 🚀 Passionate about cutting-edge technologies, cloud platforms, software architectures and software implementations my current focus is not limited to lies in leveraging Go (Golang), Terraform, and Cloud to architect scalable and resilient solutions that empower businesses to thrive in the digital landscape.
 
